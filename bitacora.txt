@@ -8,3 +8,5 @@
 ====== ============================ ================================
 (01)	clone (URL repositorio)
 (02)	editar el fichero
+(08)	push origin SegundaRama
+(09)	git checkout master
