@@ -9,3 +9,4 @@
 (01)	clone (URL repositorio)
 (02)	editar el fichero
 (04)	branch PrimeraRama + checkout PrimeraRama
+(06)	Branch SegundaRama + checkout SegundaRama
