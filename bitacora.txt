@@ -10,3 +10,6 @@
 (02)	editar el fichero
 (04)	branch PrimeraRama + checkout PrimeraRama
 (06)	Branch SegundaRama + checkout SegundaRama
+(14)					La fusión se hará por recursividad debido a que ambas ramas el bitcora.txt han sido modificados entonces la primeraRama no esta en un punto pasado y no esta actualizado sino que se ha modificado esta misma y la segundaRama también.
+(15) 					La fusión de PrimeraRama en master también será recursiva debido a que master no esta en una versión pasada de la que solo se ha modificado primeraRama cosas sino que también se ha modificado master, por lo que no será avanzar hasta esta nueva versión.
+(13)	checkout SegundaRama
