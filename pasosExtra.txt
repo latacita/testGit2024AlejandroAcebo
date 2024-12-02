@@ -1,0 +1,8 @@
+ Paso   Acción                       Notas
+====== ============================ ================================
+(22)	push origin master		Error porque ha habido un cambio en los archivos que se ha subido a la rama antes de que hiciese push, para esto tuve que hacer un pull, hubo conflicto y tuve que solucionarlo. Seleccione mis cambios que había hecho en vs code y:
+	add
+	commit
+	push
+(23)	checkout SegundaRama
+(24)	cree el archivo pasosExtra.txt desde la carpeta 
